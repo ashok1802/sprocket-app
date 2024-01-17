@@ -1,0 +1,1 @@
+alert('Custom file 2. You were able to concate!')

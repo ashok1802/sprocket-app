@@ -1,1 +1,0 @@
-alert('Rakuten Viki -> Sprocket')
